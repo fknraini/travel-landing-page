@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
             __html: `
               @font-face {
                 font-family: 'thesignature';
-                src: url('/fonts/thesignature.ttf') format('truetype');
+                src: url('/fonts/Thesignature.ttf') format('truetype');
                 font-weight: normal;
               }
             `,
